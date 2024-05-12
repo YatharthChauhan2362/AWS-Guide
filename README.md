@@ -4,15 +4,9 @@
  Amazon Web Services (AWS) Guide
 </h1>
 
-<a href="https://github.com/YatharthChauhan2362?tab=followers">
-         <img alt="followers" title="Follow me on Github for Updates" src="https://custom-icon-badges.demolab.com/github/followers/YatharthChauhan2362?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
 
-![Maintenance](https://img.shields.io/maintenance/yes/2024?style=for-the-badge)
-![Last-Commit](https://img.shields.io/github/last-commit/YatharthChauhan2362/aws-guide?style=for-the-badge)
-
- #### A guide for getting started with AWS including the Tools and Applications that will make you a better and more efficient engineer with AWS.
+ ##### A guide for getting started with AWS including the Tools and Applications that will make you a better and more efficient engineer with AWS.
  
- **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
  <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/114321716-048b1c00-9ad1-11eb-828d-a5a5f2a3c726.png">
@@ -2332,14 +2326,3 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Writing an OS in Rust ](https://os.phil-opp.com) is a blog series creates a small operating system in the Rust programming language by [Philipp Oppermann](https://github.com/phil-opp). 
 
-
-## Contribute
-
-- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/YatharthChauhan2362/AWS-Guide/pulls).
-
-
-## License
-
-[Back to the Top](https://github.com/YatharthChauhan2362/AWS-Guide/blob/main/README.md#table-of-contents)
-
-Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
